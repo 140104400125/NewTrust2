@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewTrust2</string>
+    <string name="title_home">主页</string>
+    <string name="title_share">分享</string>
+    <string name="title_notebook">账簿</string>
+    <string name="title_user">用户</string>
+</resources>
